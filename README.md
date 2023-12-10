@@ -1,6 +1,6 @@
 # OpenSkyML's - Stable Diffusio UI
 
-<img src="" alt="banner" style="width:70%; height:65%;">
+<img src="https://raw.githubusercontent.com/openskyml/stable-diffusion-webui/main/2023-12-10_20-49-18.png" alt="banner" style="width:70%; height:65%;">
 
 Try simple interface for Stable Diffusion with CUDA!
 Generate great images with many models!
