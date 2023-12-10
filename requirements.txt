@@ -1,0 +1,6 @@
+torch==2.1.1
+gradio==4.1.0
+transformers
+diffusers
+pygit
+pillow
